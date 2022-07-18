@@ -1,0 +1,51 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"Samsung Galaxy M32",
+            "src":"https://images-eu.ssl-images-amazon.com/images/I/41ZGJxnJu1S._SX300_SY300_QL70_FMwebp_.jpg",
+            "price":14999
+        },
+      
+        {
+        "id":2,
+        "name":"Redmi 9A Sport ",
+        "src":"https://m.media-amazon.com/images/I/810KHyQ4WcL._SX522_.jpg",
+        "price":6999
+    },
+    {
+        "id":3,
+        "name":"MOTOROLA e32s",
+        "src":"https://m.media-amazon.com/images/I/710cIJ6P0cL._SX522_.jpg",
+        "price":11999
+    },
+    {
+        "id":4,
+        "name":"realme narzo 50i",
+        "src":"https://m.media-amazon.com/images/I/41gSe+9qgbL._SY300_SX300_.jpg ",
+        "price":20000
+    },
+    {
+        "id":5,
+        "name":"OnePlus Nord CE 2",
+        "src":" https://images-eu.ssl-images-amazon.com/images/I/41mDAtPMDKL._SX300_SY300_QL70_FMwebp_.jpg ",
+        "price":53000
+    },
+    {
+        "id":6,
+        "name":"Apple iPhone 13 Pro ",
+        "src":"https://images-eu.ssl-images-amazon.com/images/I/31S2VbijUML._SY445_SX342_QL70_FMwebp_.jpg ",
+        "price":116900
+    },
+    {
+        "id":7,
+        "name":"one plus C2 ",
+        "src":"https://m.media-amazon.com/images/I/413u56t+CiL._SY300_SX300_.jpg",
+        "price":20000
+    }
+        
+        
+]
+
+    
+}
